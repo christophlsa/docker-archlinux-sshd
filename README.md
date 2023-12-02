@@ -1,4 +1,4 @@
-# docker-archlinux-sshd
+# archlinux-sshd
 
 This image provides an archlinux image with a running openssh server with the `rsync` command installed. Currently only the `latest` docker tag exists.
 
