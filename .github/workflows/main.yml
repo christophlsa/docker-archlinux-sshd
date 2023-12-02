@@ -38,4 +38,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: christophlsa/docker-archlinux-sshd:latest,ghcr.io/christophlsa/docker-archlinux-sshd:latest
+          tags: christophlsa/archlinux-sshd:latest,ghcr.io/christophlsa/archlinux-sshd:latest
