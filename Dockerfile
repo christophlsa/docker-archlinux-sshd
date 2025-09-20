@@ -11,4 +11,4 @@ RUN pacman -Syu --noconfirm && \
 
 CMD ["/entrypoint.sh"]
 EXPOSE 2222
-ENV PUBLIC_KEY ""
+ENV PUBLIC_KEY=""
